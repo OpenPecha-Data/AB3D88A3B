@@ -1,0 +1,19 @@
+id: AB3D88A3B
+title: A Song of Prayer to Jamyang Loter Wangpo
+type: translation
+pechas:
+- IBB7298CA
+- IA811B481
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:55:07.127027
+  last_modified_at: 2023-01-04 12:55:07.127046
+  collections:
+  - Khenpo Shenpen Nangwa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IBB7298CA/CD36: 125A
+  IA811B481/1C64: 125A
